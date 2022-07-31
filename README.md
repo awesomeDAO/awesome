@@ -1,5 +1,5 @@
+![271](https://user-images.githubusercontent.com/1236584/182033236-5346ee93-f355-46d0-b30e-32bc2d825587.png)
 
-![awesome](https://user-images.githubusercontent.com/1236584/182023232-8d7c58db-740d-4ce2-801f-95bf71b89511.png)
 - [💬 Say "gm!"](https://orbis.club/group/kjzl6cwe1jw145t5r435s5xb89xiiypbtvrfslov255ybzq80dmglc0jzggfgb5)
 - [🐣 Hatch]()
 - [🗣 FAQ off](https://faq.commonsstack.org)
@@ -7,8 +7,7 @@
 ## Quick Start ⏱ ~4m20s
 <sub>Note: you'll need a [Gitcoin Passport](https://passport.gitcoin.co) with a recent [GitHub stamp]()</sub> 🛂
 - fork this _undeniably_ awesome repo
-- append your favorite `awesome-*` to repo list
-- open a PR to merge it back in
+- append your favorite `awesome-*` to repo list & open PR
 - ????
 - GROW!!!! 🌱
 ## Mission: maximize awesome! 📈
